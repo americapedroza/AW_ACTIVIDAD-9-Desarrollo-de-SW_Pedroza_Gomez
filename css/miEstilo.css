@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.custom-rounded-img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 140px;
+    border-bottom-right-radius: 140px;
+}
+.footer-dentist {
+    background-color: #122644;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.footer-dentist p {
+    margin: 4px;
+}
